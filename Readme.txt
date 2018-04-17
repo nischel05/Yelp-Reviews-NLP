@@ -1,0 +1,1 @@
+Predicting a yelp reviews rating based upon the text in the review and various other features. Natural Language processing and logistic regression is used and the prediction accuracy scores are deduced.
